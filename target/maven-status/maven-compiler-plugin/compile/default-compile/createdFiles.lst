@@ -1,0 +1,11 @@
+pages\CheckoutCompletePage.class
+pages\ProductPage.class
+pages\LoginPage.class
+utils\DriverFactory.class
+pages\CartPage.class
+utils\Config.class
+pages\CheckoutOverviewPage.class
+pages\MenuPage.class
+utils\ScreenshotUtil.class
+pages\CheckoutInfoPage.class
+SauceDemo\SauceDemo\App.class

@@ -1,0 +1,7 @@
+tests\CheckoutOverviewTest.class
+tests\CartTest.class
+tests\CheckoutInfoTest.class
+tests\OrderConfirmationTest.class
+SauceDemo\SauceDemo\AppTest.class
+tests\BaseTest.class
+tests\LoginTest.class

@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Saucelabs">
+
+    <test name="EndToEndTests">
+        <classes>
+            <class name="tests.LoginTest"/>
+            <class name="tests.CartTest"/>
+            <class name="tests.CheckoutInfoTest"/>
+            <class name="tests.CheckoutOverviewTest"/>
+            <class name="tests.OrderConfirmationTest"/>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Saucelabs]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="EndToEndTests(failed)">
+    <classes>
+      <class name="tests.OrderConfirmationTest">
+        <methods>
+          <include name="testOrderConfirmationAndLogout"/>
+          <include name="tearDownAndCaptureScreenshot"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- tests.OrderConfirmationTest -->
+    </classes>
+  </test> <!-- EndToEndTests(failed) -->
+</suite> <!-- Failed suite [Saucelabs] -->
