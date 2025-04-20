@@ -49,8 +49,8 @@ SauceDemo/
 **1.** Clone the repository  
 
 ```bash
-git clone https://github.com/prem011994/saucedemo-automation-calidad.git
-cd saucedemo-automation-calidad
+git clone https://github.com/prem011994/SauceDemo-Automation.git
+cd SauceDemo-Automation
 
 2. Create `.env` file in the root directory  
 BASE_URL=https://www.saucedemo.com/
